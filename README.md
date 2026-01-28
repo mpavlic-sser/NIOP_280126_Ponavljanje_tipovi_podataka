@@ -1,4 +1,4 @@
-# C# zadaci (GitHub Classroom) — UČENICI
+# C# Ponavljanje - Tipovi podataka
 
 Ovaj repozitorij sadrži 3 zadatka. Svaki zadatak je u svojoj mapi kao zaseban projekt.
 
