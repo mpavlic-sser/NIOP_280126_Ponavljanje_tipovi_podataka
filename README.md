@@ -19,7 +19,12 @@ Mini upute za učenike: COMMIT u Visual Studio 2026 (korak po korak)
 
 Otvorite projekt u Visual Studio 2026.
 
-U izborniku kliknite Git → Git Changes.
+Na vrhu Visual Studija (iznad koda) imaš menije:
+
+File | Edit | View | Git | Project | Build | Debug | …
+
+➡️ Klikni Git
+➡️ zatim Git Changes
 
 U prozoru Git Changes provjerite da postoje datoteke pod Changes (to su vaše promjene).
 
@@ -32,14 +37,5 @@ Kliknite Push (ili Sync) da se promjene pošalju na GitHub.
 ✅ Gotovo — sada je zadatak spremljen i na GitHubu.
 
 
-## ✅ Gdje je “Git → Git Changes” u Visual Studio 2026?
 
-1) Klasični način (gornji meni)
-
-Na vrhu Visual Studija (iznad koda) imaš menije:
-
-File | Edit | View | Git | Project | Build | Debug | …
-
-➡️ Klikni Git
-➡️ zatim Git Changes
 
